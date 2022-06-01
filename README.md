@@ -34,4 +34,4 @@ Those frameworks enables me to solve complicated digital problems with reactive 
 ## Get in touch: 
 - [Linkedin|(https://www.linkedin.com/in/ilyass-elfouih/)
 - [Twitter](https://twitter.com/elfouih)
-- [ilyass.elfoui@gmail.com](mailto ilyass.elfouih@gmail.com)
+- ilyass.elfoui@gmail.com
