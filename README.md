@@ -32,6 +32,6 @@ My focus now is on javascript frameworks which are **Angular**, **Nestjs** and *
 Those frameworks enables me to solve complicated digital problems with reactive and efficient way for me and for my clients.
 
 ## Get in touch: 
-- [Linkedin|(https://www.linkedin.com/in/ilyass-elfouih/)
+- [Linkedin](https://www.linkedin.com/in/ilyass-elfouih/)
 - [Twitter](https://twitter.com/elfouih)
 - ilyass.elfoui@gmail.com
