@@ -1,4 +1,4 @@
-👋 Hey there, I am Ilyass Elfouih from Morocco 🇲🇦 . I consider myself a Sr Angular/NestJS developer. I love taking challenges and build complicated apps that can scale and most importantly has a good impact on peoples day to day life.
+👋 Hey there, I am Ilyass Elfouih from Morocco 🇲🇦 . I am a Sr Angular developer. I love taking challenges and build complicated apps that can scale and most importantly has a good impact on peoples day to day life.
 
 ### Here is my little story :
 
